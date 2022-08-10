@@ -1,0 +1,14 @@
+# Editor and IDE related files and folders
+.vscode
+
+# Executables, Binaries and Compiled files and folders
+*.exe
+*.out
+*.class
+
+# I/O files and folders
+# input*.txt
+
+# specefic files and folders
+lab1/
+CSE3214_Offline2_190104060.zip
